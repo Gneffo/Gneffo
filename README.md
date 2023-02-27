@@ -9,7 +9,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## My GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=slendy98DX&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gneffo_icons=true&theme=tokyonight)
 ## My Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slendy98DX)](https://github.com/anuraghazra/github-readme-stats)
 <!--
